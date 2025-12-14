@@ -1,5 +1,4 @@
-
-name: otako
+name: Infinite RDP Server
 
 on:
   workflow_dispatch:
